@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.vaxium.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EntityRenderDispatcherMixin",
+    "BlockEntityRenderDispatcherMixin",
+    "ParticleManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
